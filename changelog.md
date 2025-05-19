@@ -4,6 +4,10 @@ Das Format basiert auf [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) 
 ## [Unreleased]
 Unreleased features and fixes can be viewed on GitHub. To do this, click on [Unreleased].
 
+## [1.8.0] - 2025-05-19
+### Added
+- Feature: Modul an modified 3.1.4 angepasst
+
 ## [1.7.0] - 2025-03-26
 ### Added
 - Feature: Modul an modified 3.1.3 angepasst
