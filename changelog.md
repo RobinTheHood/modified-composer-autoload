@@ -4,6 +4,10 @@ Das Format basiert auf [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) 
 ## [Unreleased]
 Unreleased features and fixes can be viewed on GitHub. To do this, click on [Unreleased].
 
+## [1.9.0] - 2025-09-02
+### Added
+- Feature: Modul an modified 3.1.5 angepasst
+
 ## [1.8.0] - 2025-05-19
 ### Added
 - Feature: Modul an modified 3.1.4 angepasst
@@ -53,7 +57,9 @@ Unreleased features and fixes can be viewed on GitHub. To do this, click on [Unr
 ### Added
 - Feature: Initiale Version
 
-[Unreleased]: https://github.com/RobinTheHood/modified-stripe/compare/1.7.0...HEAD
+[Unreleased]: https://github.com/RobinTheHood/modified-std-module/compare/1.9.0...HEAD
+[1.9.0]: https://github.com/RobinTheHood/modified-std-module/compare/1.8.0...1.9.0
+[1.8.0]: https://github.com/RobinTheHood/modified-std-module/compare/1.7.0...1.8.0
 [1.7.0]: https://github.com/RobinTheHood/modified-std-module/compare/1.6.0...1.7.0
 [1.6.0]: https://github.com/RobinTheHood/modified-std-module/compare/1.5.0...1.6.0
 [1.5.0]: https://github.com/RobinTheHood/modified-std-module/compare/1.4.0...1.5.0
@@ -63,4 +69,4 @@ Unreleased features and fixes can be viewed on GitHub. To do this, click on [Unr
 [1.2.1]: https://github.com/RobinTheHood/modified-std-module/compare/1.2.0...1.2.1
 [1.2.0]: https://github.com/RobinTheHood/modified-std-module/compare/1.1.0...1.2.0
 [1.1.0]: https://github.com/RobinTheHood/modified-std-module/compare/1.0.0...1.1.0
-[1.0.0]: https://github.com/RobinTheHood/modified-stripe/releases/tag/1.0.0
+[1.0.0]: https://github.com/RobinTheHood/modified-std-module/releases/tag/1.0.0
